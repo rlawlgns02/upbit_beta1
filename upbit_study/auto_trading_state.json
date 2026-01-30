@@ -1,0 +1,146 @@
+{
+  "is_running": true,
+  "total_investment": 60000.0,
+  "coin_count": 4,
+  "analysis_mode": "volume_top50",
+  "coin_category": "normal",
+  "trading_interval": 60,
+  "allocation_mode": "weighted",
+  "target_profit_percent": 10.0,
+  "stop_loss_percent": 10.0,
+  "start_time": "2026-01-29T17:14:12.015925",
+  "start_balance": 110133.88226674,
+  "current_balance": 114477.66794682,
+  "profit": 4343.785680080007,
+  "profit_rate": 3.9440956685423356,
+  "positions": {
+    "KRW-NEWT": {
+      "market": "KRW-NEWT",
+      "name": "NEWT",
+      "allocated_amount": 19722.823733217847,
+      "allocation_percent": 32.9,
+      "entry_price": null,
+      "current_price": 139.0,
+      "volume": 0,
+      "unrealized_pnl": 0,
+      "realized_pnl": 0,
+      "status": "none",
+      "score": 75.9,
+      "recommendation": "매수",
+      "trade_prices": {
+        "buy_price": 158.76,
+        "sell_price": 171.46,
+        "stop_loss": 152.41,
+        "expected_profit_rate": 8.0,
+        "risk_rate": 4.0
+      },
+      "last_action": "HOLD",
+      "trade_history": []
+    },
+    "KRW-FF": {
+      "market": "KRW-FF",
+      "name": "FF",
+      "allocated_amount": 13590.298830662623,
+      "allocation_percent": 22.7,
+      "entry_price": null,
+      "current_price": 128.0,
+      "volume": 0,
+      "unrealized_pnl": 0,
+      "realized_pnl": 0,
+      "status": "none",
+      "score": 52.3,
+      "recommendation": "중립 (관망)",
+      "trade_prices": {
+        "buy_price": 123.19,
+        "sell_price": 129.35,
+        "stop_loss": 119.49,
+        "expected_profit_rate": 5.0,
+        "risk_rate": 3.0
+      },
+      "last_action": "HOLD",
+      "trade_history": []
+    },
+    "KRW-BOUNTY": {
+      "market": "KRW-BOUNTY",
+      "name": "BOUNTY",
+      "allocated_amount": 13460.372455608487,
+      "allocation_percent": 22.4,
+      "entry_price": null,
+      "current_price": 36.4,
+      "volume": 0,
+      "unrealized_pnl": 0,
+      "realized_pnl": 0,
+      "status": "none",
+      "score": 51.8,
+      "recommendation": "중립 (관망)",
+      "trade_prices": {
+        "buy_price": 43.65,
+        "sell_price": 45.83,
+        "stop_loss": 42.34,
+        "expected_profit_rate": 5.0,
+        "risk_rate": 3.0
+      },
+      "last_action": "HOLD",
+      "trade_history": []
+    },
+    "KRW-AXL": {
+      "market": "KRW-AXL",
+      "name": "AXL",
+      "allocated_amount": 13226.504980511043,
+      "allocation_percent": 22.0,
+      "entry_price": null,
+      "current_price": 104.0,
+      "volume": 0,
+      "unrealized_pnl": 0,
+      "realized_pnl": 0,
+      "status": "none",
+      "score": 50.9,
+      "recommendation": "중립 (관망)",
+      "trade_prices": {
+        "buy_price": 110.58,
+        "sell_price": 116.11,
+        "stop_loss": 107.26,
+        "expected_profit_rate": 5.0,
+        "risk_rate": 3.0
+      },
+      "last_action": "HOLD",
+      "trade_history": []
+    }
+  },
+  "selected_coins": [
+    {
+      "market": "KRW-NEWT",
+      "name": "NEWT",
+      "score": 75.9,
+      "recommendation": "매수",
+      "allocated_amount": 19722.823733217847,
+      "allocation_percent": 32.9
+    },
+    {
+      "market": "KRW-FF",
+      "name": "FF",
+      "score": 52.3,
+      "recommendation": "중립 (관망)",
+      "allocated_amount": 13590.298830662623,
+      "allocation_percent": 22.7
+    },
+    {
+      "market": "KRW-BOUNTY",
+      "name": "BOUNTY",
+      "score": 51.8,
+      "recommendation": "중립 (관망)",
+      "allocated_amount": 13460.372455608487,
+      "allocation_percent": 22.4
+    },
+    {
+      "market": "KRW-AXL",
+      "name": "AXL",
+      "score": 50.9,
+      "recommendation": "중립 (관망)",
+      "allocated_amount": 13226.504980511043,
+      "allocation_percent": 22.0
+    }
+  ],
+  "trade_history": [],
+  "saved_at": "2026-01-30T17:08:48.579150"
+}
